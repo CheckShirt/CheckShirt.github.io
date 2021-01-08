@@ -1,11 +1,10 @@
 ---
 title: Reference and Value Types in Swift
 categories: [dev]
-image: 'assets/img/72374.jpg'
 comments: true
 ---
 
-
+![HeadImage](assets/img/72374.jpg)
 
 # At Glance
 
