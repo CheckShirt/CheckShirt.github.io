@@ -18,7 +18,7 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: CheckShirt
+  name: checkshirt
   pic: /assets/img/cat.jpg
   picAlt: "yuki:
   job: developer
