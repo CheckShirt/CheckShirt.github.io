@@ -4,7 +4,7 @@ categories: [dev]
 comments: true
 ---
 
-![](assets/img/72374.jpg)
+![](/assets/img/72374.jpg)
 
 # At Glance
 
