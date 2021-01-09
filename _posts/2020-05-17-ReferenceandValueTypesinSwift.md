@@ -4,7 +4,7 @@ categories: [dev]
 comments: true
 ---
 
-![Image](/Users/hahnsangmin/Workspace/Blog/CheckShirt.github.io/assets/img/72374.jpg)
+![](assets/img/72374.jpg)
 
 # At Glance
 
