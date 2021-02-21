@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jekyll
+title: 적응기
 categories: [dev]
 comments: true
 ---
